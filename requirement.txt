@@ -1,8 +1,0 @@
-whisper
-transformers
-edge-tts
-pydub
-silero-vad
-streamlit
-asyncio
-torch
